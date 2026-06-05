@@ -13,6 +13,7 @@ PC-Shop Hauptmenü von: [Vor- und Nachname]
 3. Produkt suchen
 4. Produkt löschen
 5. Shop beenden
+
 Bitte wählen:
 
 ## Aufgaben
